@@ -1,0 +1,3 @@
+create table students(Sno varchar(255), Sname varchar(255), Phone double, Email varchar(255), Course varchar(255))
+insert into students values (1,'Rishan Pattnaik',9090101090,'rishan@gmail.com','CS50')
+select * from students
